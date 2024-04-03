@@ -27,7 +27,7 @@ $sizeF: 14px;
 body{
     //___BACKGROUND TOP & CARD___
     .hero{
-        height: 36vh;
+        height: 28vh;
         background-image: url(../img/marmore-preto-dourado.jpg);
         background-repeat: no-repeat;
         background-position: center;
@@ -40,7 +40,7 @@ body{
             display: flex;
             justify-content: center;
             position: relative;
-            top: 16vh;
+            top: 8vh;
 
             .flipcard{
                 position: absolute;
@@ -135,7 +135,7 @@ body{
             }
 
             .arrow-icon-box{
-                .arrow-icon{width: 32px; margin-bottom: 8vh;}
+                .arrow-icon{width: 48px; margin-bottom: 8vh;}
             }
         }
     }
